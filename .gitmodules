@@ -1,3 +1,6 @@
 [submodule "redis/redis"]
 	path = redis/redis
 	url = https://github.com/redis/redis.git
+[submodule "tools/intel-cmt-cat"]
+	path = tools/intel-cmt-cat
+	url = https://github.com/intel/intel-cmt-cat.git
